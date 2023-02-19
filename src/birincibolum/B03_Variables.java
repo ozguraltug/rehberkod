@@ -4,7 +4,8 @@ public class B03_Variables {
     public static void main(String[] args) {
 
 
-
+        int yas=20;
+        System.out.println("Yaş : "+yas);
 
         double boy=1.70;
 
