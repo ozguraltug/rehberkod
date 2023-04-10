@@ -1,6 +1,6 @@
 package birincibolum;
 
-public class B11_StringManupilation01 {
+public class B11_StringManupilations01 {
     public static void main(String[] args) {
 
         String isim="Ali";
