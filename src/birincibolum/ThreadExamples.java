@@ -3,7 +3,7 @@ package birincibolum;
 public class ThreadExamples {
     public static void main(String[] args) {
 
-        System.out.println("Bahçede ekim işlemi yapıldı ve bitkiler sulandı");
+
 
         Thread th1=new Thread(){
             @Override
