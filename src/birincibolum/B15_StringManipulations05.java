@@ -2,7 +2,7 @@ package birincibolum;
 
 import java.util.Scanner;
 
-public class B15_StringManipulation05 {
+public class B15_StringManipulations05 {
     //contains methodu
     //endsWith methodu
 /*    Soru 1) Kullanicidan email adresini girmesini isteyin, mail @gmail.com
