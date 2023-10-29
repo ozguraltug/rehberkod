@@ -10,7 +10,7 @@ public class B19_StringManupilations08Substring {
           System.out.println(str.substring(5,11));
           System.out.println(str.substring(3,4));
           System.out.println(str.substring(8,8));
-
+          System.out.println(str.substring(1));
 
       }
 
