@@ -40,10 +40,7 @@ public class B29_DoWhileLoop02 {
                 tahminDogrumu=true;
             }
         } while (!tahminDogrumu);
-
         //scanner objesini kapattık
         scan.close();
-
-
     }
 }
